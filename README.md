@@ -2,7 +2,7 @@
   
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>SV Filter Bot</b>
 </h1>
 
 
